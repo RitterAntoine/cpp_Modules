@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION "3.11")
 
-project("HelloWorld")
+project("LibSL_example")
 
 include(FetchContent)
 
